@@ -1,13 +1,13 @@
-Machine Learning Models for Flood Probability Prediction
+**Machine Learning Models for Flood Probability Prediction**
 
 **Models Used :**
 
-Linear Regression (Regression)
+1. Linear Regression (Regression)
 
-K-Nearest Neighbors (KNN) (Regression)
+2. K-Nearest Neighbors (KNN) (Regression)
 
-Decision Tree Regressor (Regression)
+3. Decision Tree Regressor (Regression)
 
-Random Forest Regressor (Regression ⭐ Best)
+4. Random Forest Regressor (Regression ⭐ Best)
 
-Support Vector Machine (SVR) (Regression)
+5. Support Vector Machine (SVR) (Regression)
